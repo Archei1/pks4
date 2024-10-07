@@ -1,16 +1,8 @@
-# pks4
+# Практическая работа №4
+## Рабкин Артур ЭФБО-05-22
+![image](https://github.com/user-attachments/assets/854b3dd4-190a-43d6-937c-ca9bc8b4cb57)
+![image](https://github.com/user-attachments/assets/47b7ece5-9f46-4d5c-874d-fb0c5140a3da)
+![image](https://github.com/user-attachments/assets/c7913b5f-f0c5-4741-862c-de25b0fadce5)
+Удаление реализовано свайпом картинки влево
+![image](https://github.com/user-attachments/assets/21a198ef-7465-46cd-a8cf-b73c2e434567)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
